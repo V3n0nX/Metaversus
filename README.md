@@ -18,7 +18,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <p>**Metaversus** is an immersive web project that focuses on stunning animations and design elements, built with **React** and **Framer Motion**. It aims to provide an engaging user experience through smooth and interactive animations, making use of modern frontend tools to bring the Metaverse to life on the web.</p>
 </div>
 
-![Metaversus preview](./metaverse_prev.png)
+![Metaversus preview](./public/metaverse_prev.png)
 
 # Features
 
@@ -27,7 +27,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - **Modern Web Design**: Sleek and innovative design focused on user experience.
 
 
-![Metaversus preview](./metaverse_prev1.png)
+![Metaversus preview](./public/metaverse_prev1.png)
 
 ## Getting Started
 
