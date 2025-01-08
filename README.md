@@ -15,7 +15,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <div align="center">
   <h1 align="center">Metaversus</h1>
-  <p>**Metaversus** is an immersive web project that focuses on stunning animations and design elements, built with **React** and **Framer Motion**. It aims to provide an engaging user experience through smooth and interactive animations, making use of modern frontend tools to bring the Metaverse to life on the web.</p>
+  <p>
+    <b>Metaversus</b> is an immersive web project that focuses on stunning animations and design elements, 
+    built with <b>React</b> and <b>Framer Motion</b>. 
+    It aims to provide an engaging user experience through smooth and interactive animations,
+    making use of modern frontend tools to bring the Metaverse to life on the web.
+  </p>
 </div>
 
 ![Metaversus preview](./public/metaverse_prev.png)
